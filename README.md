@@ -85,11 +85,15 @@ Please find test cases excel sheet at root folder
 /TestCasesDepositSolutions.xlsx
 
 
-## Test Reports
+## Test Report Location
 
 Please find test report under below path 
 
 /DepositSolutionsTestReport.html
+
+##Test Report screenshot
+
+<img width="1237" alt="screen shot 2018-10-14 at 8 51 24 pm" src="https://user-images.githubusercontent.com/14192186/46919748-5dad8e00-d001-11e8-959a-5c68a0b17a93.png">
 
 
 ## Test Screen Recording
