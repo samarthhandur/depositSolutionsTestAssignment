@@ -1,0 +1,296 @@
+2018-10-14 21:19:02,353 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_001_VerifyPageHeaderLabelDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,568 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,568 INFO  [Log] X 
+2018-10-14 21:19:02,568 INFO  [Log] X 
+2018-10-14 21:19:02,568 INFO  [Log] X 
+2018-10-14 21:19:02,569 INFO  [Log] X 
+2018-10-14 21:19:02,586 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_002_VerifyNameLabelDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,670 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,670 INFO  [Log] X 
+2018-10-14 21:19:02,670 INFO  [Log] X 
+2018-10-14 21:19:02,670 INFO  [Log] X 
+2018-10-14 21:19:02,670 INFO  [Log] X 
+2018-10-14 21:19:02,674 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_003_VerifyEmailLabelDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,748 INFO  [Log] X 
+2018-10-14 21:19:02,748 INFO  [Log] X 
+2018-10-14 21:19:02,748 INFO  [Log] X 
+2018-10-14 21:19:02,748 INFO  [Log] X 
+2018-10-14 21:19:02,752 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_004_VerifyPasswordLabelDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,813 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,813 INFO  [Log] X 
+2018-10-14 21:19:02,813 INFO  [Log] X 
+2018-10-14 21:19:02,813 INFO  [Log] X 
+2018-10-14 21:19:02,813 INFO  [Log] X 
+2018-10-14 21:19:02,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_005_VerifyConfirmPasswordLabelDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,863 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,863 INFO  [Log] X 
+2018-10-14 21:19:02,863 INFO  [Log] X 
+2018-10-14 21:19:02,863 INFO  [Log] X 
+2018-10-14 21:19:02,863 INFO  [Log] X 
+2018-10-14 21:19:02,867 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_006_VerifyAllUsersButtonDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:02,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:02,943 INFO  [Log] X 
+2018-10-14 21:19:02,943 INFO  [Log] X 
+2018-10-14 21:19:02,943 INFO  [Log] X 
+2018-10-14 21:19:02,943 INFO  [Log] X 
+2018-10-14 21:19:02,945 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_007_VerifySubmitButtonDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,001 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:03,001 INFO  [Log] X 
+2018-10-14 21:19:03,001 INFO  [Log] X 
+2018-10-14 21:19:03,001 INFO  [Log] X 
+2018-10-14 21:19:03,001 INFO  [Log] X 
+2018-10-14 21:19:03,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_008_VerifyNamePlaceholderText       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,076 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:03,076 INFO  [Log] X 
+2018-10-14 21:19:03,076 INFO  [Log] X 
+2018-10-14 21:19:03,080 INFO  [Log] X 
+2018-10-14 21:19:03,081 INFO  [Log] X 
+2018-10-14 21:19:03,084 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_009_VerifyEmailPlaceholderText       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,148 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:03,148 INFO  [Log] X 
+2018-10-14 21:19:03,148 INFO  [Log] X 
+2018-10-14 21:19:03,148 INFO  [Log] X 
+2018-10-14 21:19:03,148 INFO  [Log] X 
+2018-10-14 21:19:03,152 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0010_VerifyPasswordPlaceholderText       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,236 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:03,236 INFO  [Log] X 
+2018-10-14 21:19:03,236 INFO  [Log] X 
+2018-10-14 21:19:03,236 INFO  [Log] X 
+2018-10-14 21:19:03,236 INFO  [Log] X 
+2018-10-14 21:19:03,238 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0011_VerifyConfirmPasswordPlaceholderText       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:03,303 INFO  [Log] X 
+2018-10-14 21:19:03,303 INFO  [Log] X 
+2018-10-14 21:19:03,303 INFO  [Log] X 
+2018-10-14 21:19:03,303 INFO  [Log] X 
+2018-10-14 21:19:03,307 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0012_VerifyCreateUserByEnteringValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:03,312 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:03,312 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:03,312 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:05,734 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:05,734 INFO  [Log] X 
+2018-10-14 21:19:05,734 INFO  [Log] X 
+2018-10-14 21:19:05,734 INFO  [Log] X 
+2018-10-14 21:19:05,734 INFO  [Log] X 
+2018-10-14 21:19:06,306 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0013_VerifyCreateUserByEnteringENTERButton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:06,306 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:06,306 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:06,306 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:08,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:08,239 INFO  [Log] X 
+2018-10-14 21:19:08,240 INFO  [Log] X 
+2018-10-14 21:19:08,240 INFO  [Log] X 
+2018-10-14 21:19:08,240 INFO  [Log] X 
+2018-10-14 21:19:08,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0014_VerifyCreateUserByAllFieldsBlank       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:10,649 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:10,649 INFO  [Log] X 
+2018-10-14 21:19:10,649 INFO  [Log] X 
+2018-10-14 21:19:10,649 INFO  [Log] X 
+2018-10-14 21:19:10,649 INFO  [Log] X 
+2018-10-14 21:19:10,692 ERROR [Log] newUserButton element not found 
+2018-10-14 21:19:10,694 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationGenericTests.testCaseID_0015_VerifyPageRefreshAfterFieldsEntry       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:12,097 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:12,097 INFO  [Log] X 
+2018-10-14 21:19:12,097 INFO  [Log] X 
+2018-10-14 21:19:12,097 INFO  [Log] X 
+2018-10-14 21:19:12,097 INFO  [Log] X 
+2018-10-14 21:19:12,113 ERROR [Log] newUserButton element not found 
+2018-10-14 21:19:12,115 INFO  [Log] Entering into NewUserCreationEmailFieldTests 
+2018-10-14 21:19:12,115 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:12,115 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:12,115 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:12,115 INFO  [Log] Email :: b9*me_hj6q%@testdata.com 
+2018-10-14 21:19:14,819 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationEmailFieldTests.testCaseID_0016_VerifyCreatingNewUserWithExistingEmail       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:14,819 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:14,820 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:15,188 INFO  [Log] Email :: #@testdata.com 
+2018-10-14 21:19:17,108 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:17,109 INFO  [Log] X 
+2018-10-14 21:19:17,109 INFO  [Log] X 
+2018-10-14 21:19:17,109 INFO  [Log] X 
+2018-10-14 21:19:17,109 INFO  [Log] X 
+2018-10-14 21:19:17,110 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationEmailFieldTests.testCaseID_0017_VerifyCreatingNewUserWithMaxEmailLength       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:17,110 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:17,110 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:17,111 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:17,111 INFO  [Log] Email :: *arcj^x$99hvr1iq*wpf_n%m8cz%3u6o3187lzt*b$an4q7u1a2sbuag*ab5tbxdp$*g*rhrn9dd1&73k96_a^tw57kui*ygykws4l09b$ou2vz6id-*_bskv-q^ydrz3lk%1fgtnlygfirbvqj-r#%jsxigv1qo3v$z#*yf0w7h1ny4navymoa%%^1&ybr4hmsn6pqhu1^oa&1m%t94yx_*5*%81f4n0g0d5vd9p$%fjol5j78tc6u$o_0v1be*q*gcog3^kzz2h0_bc$^sm5c7hie7x_8%x6p@testdata.com 
+2018-10-14 21:19:23,738 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:23,740 INFO  [Log] X 
+2018-10-14 21:19:23,740 INFO  [Log] X 
+2018-10-14 21:19:23,740 INFO  [Log] X 
+2018-10-14 21:19:23,740 INFO  [Log] X 
+2018-10-14 21:19:23,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationEmailFieldTests.testCaseID_0018_VerifyCreatingNewUserWithoutAtSymbolInEmail       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:23,742 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:23,742 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:23,743 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:23,743 INFO  [Log] Email :: h2hbwz$7pb4 
+2018-10-14 21:19:25,919 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:25,919 INFO  [Log] X 
+2018-10-14 21:19:25,919 INFO  [Log] X 
+2018-10-14 21:19:25,919 INFO  [Log] X 
+2018-10-14 21:19:25,919 INFO  [Log] X 
+2018-10-14 21:19:25,920 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationEmailFieldTests.testCaseID_0019_VerifyCreatingNewUserWithoutdotcomInEmail       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:25,920 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:25,920 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:25,920 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:25,920 INFO  [Log] Email :: bgoghn5k4tn@testData 
+2018-10-14 21:19:28,264 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:28,264 INFO  [Log] X 
+2018-10-14 21:19:28,264 INFO  [Log] X 
+2018-10-14 21:19:28,264 INFO  [Log] X 
+2018-10-14 21:19:28,264 INFO  [Log] X 
+2018-10-14 21:19:28,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationEmailFieldTests.testCaseID_0020_VerifyCreatingNewUserWithoutPrefixInEmail       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:28,265 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:28,265 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:28,265 INFO  [Log] Email :: @testData.com 
+2018-10-14 21:19:30,397 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:30,398 INFO  [Log] X 
+2018-10-14 21:19:30,398 INFO  [Log] X 
+2018-10-14 21:19:30,398 INFO  [Log] X 
+2018-10-14 21:19:30,398 INFO  [Log] X 
+2018-10-14 21:19:30,398 INFO  [Log] Leaving NewUserCreationEmailFieldTests 
+2018-10-14 21:19:30,400 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:30,400 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:30,400 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:33,355 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationNameFieldTests.testCaseID_0021_VerifyCreatingNewUserWithExistingName       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:33,775 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:33,776 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:35,855 ERROR [Log] newUserButton element not found 
+2018-10-14 21:19:35,855 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationNameFieldTests.testCaseID_0022_VerifyCreatingNewUserWithMaxNameLength       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:35,856 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:35,856 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:35,856 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:51,961 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:51,962 INFO  [Log] X 
+2018-10-14 21:19:51,962 INFO  [Log] X 
+2018-10-14 21:19:51,963 INFO  [Log] X 
+2018-10-14 21:19:51,963 INFO  [Log] X 
+2018-10-14 21:19:52,126 ERROR [Log] newUserButton element not found 
+2018-10-14 21:19:52,128 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationNameFieldTests.testCaseID_0023_VerifyCreatingNewUserWithBlankName       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:52,128 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:52,129 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:54,622 ERROR [Log] newUserButton element not found 
+2018-10-14 21:19:54,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationNameFieldTests.testCaseID_0024_VerifyCreatingNewUserWithoutCaseSensitivity       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:19:54,623 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:54,623 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:54,623 INFO  [Log] Generating a Random email String 
+2018-10-14 21:19:54,623 INFO  [Log] NAME :: 9uf2vr_3g2r 
+2018-10-14 21:19:54,623 INFO  [Log] EMAIL :: ^o48h2gp9jv@testdata.com 
+2018-10-14 21:19:57,858 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:19:57,860 INFO  [Log] X 
+2018-10-14 21:19:57,860 INFO  [Log] X 
+2018-10-14 21:19:57,861 INFO  [Log] X 
+2018-10-14 21:19:57,861 INFO  [Log] X 
+2018-10-14 21:19:58,472 INFO  [Log] Leaving NewUserCreationNameFieldTests 
+2018-10-14 21:19:58,474 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:58,474 INFO  [Log] Generating a Random String 
+2018-10-14 21:19:58,474 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:01,188 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0025_VerifyCreatingNewUserWithBlankPwdFieldAndValidCnfPasswordField       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:01,188 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:01,188 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:01,188 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:03,157 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:03,158 INFO  [Log] X 
+2018-10-14 21:20:03,158 INFO  [Log] X 
+2018-10-14 21:20:03,158 INFO  [Log] X 
+2018-10-14 21:20:03,158 INFO  [Log] X 
+2018-10-14 21:20:03,159 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0026_VerifyCreatingNewUserWithValidPwdFieldAndBlankCnfPasswordField       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:03,159 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:03,159 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:03,159 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:05,434 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:05,434 INFO  [Log] X 
+2018-10-14 21:20:05,434 INFO  [Log] X 
+2018-10-14 21:20:05,434 INFO  [Log] X 
+2018-10-14 21:20:05,435 INFO  [Log] X 
+2018-10-14 21:20:05,435 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0027_VerifyCreatingNewUserWithValidPwdFieldAndDifferentCnfPasswordField       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:05,436 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:05,436 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:05,436 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:05,436 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:07,990 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:07,990 INFO  [Log] X 
+2018-10-14 21:20:07,990 INFO  [Log] X 
+2018-10-14 21:20:07,990 INFO  [Log] X 
+2018-10-14 21:20:07,990 INFO  [Log] X 
+2018-10-14 21:20:07,991 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0028_VerifyCreatingNewUserWithPasswordMaxLength       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:07,991 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:07,991 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:07,991 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:27,635 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:27,636 INFO  [Log] X 
+2018-10-14 21:20:27,636 INFO  [Log] X 
+2018-10-14 21:20:27,636 INFO  [Log] X 
+2018-10-14 21:20:27,636 INFO  [Log] X 
+2018-10-14 21:20:27,636 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0029_VerifyCreatingNewUserWithPasswordMinLength       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:27,636 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:27,636 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:27,637 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:29,687 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:29,687 INFO  [Log] X 
+2018-10-14 21:20:29,688 INFO  [Log] X 
+2018-10-14 21:20:29,688 INFO  [Log] X 
+2018-10-14 21:20:29,688 INFO  [Log] X 
+2018-10-14 21:20:29,688 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.NewUserCreationPasswordFieldTests.testCaseID_0030_VerifyPasswordEnteredIsEncrypted       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:29,688 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:29,689 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:29,689 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:30,888 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:30,888 INFO  [Log] X 
+2018-10-14 21:20:30,888 INFO  [Log] X 
+2018-10-14 21:20:30,888 INFO  [Log] X 
+2018-10-14 21:20:30,888 INFO  [Log] X 
+2018-10-14 21:20:30,889 INFO  [Log] Leaving NewUserCreationPasswordFieldTests 
+2018-10-14 21:20:30,890 INFO  [Log] Entering into AllUsersPageTest 
+2018-10-14 21:20:30,891 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:30,891 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:30,891 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:30,891 INFO  [Log] Email created :: 9t$zqc$9mxg@testdata.com 
+2018-10-14 21:20:33,056 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:33,056 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:33,056 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:33,056 INFO  [Log] Email created :: q#^y$e$mdhv@testdata.com 
+2018-10-14 21:20:36,102 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:36,103 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:36,103 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:36,103 INFO  [Log] Email created :: 75e3y%80p36@testdata.com 
+2018-10-14 21:20:38,519 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:38,519 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:38,519 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:38,519 INFO  [Log] Email created :: 6ssra*#r$mg@testdata.com 
+2018-10-14 21:20:40,866 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:40,866 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:40,866 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:40,866 INFO  [Log] Email created :: l#z6zdwg-_$@testdata.com 
+2018-10-14 21:20:43,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.AllUsersPageTest.testCaseID_0031_VerifyAllUserPageHeader       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:44,491 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:44,491 INFO  [Log] X 
+2018-10-14 21:20:44,491 INFO  [Log] X 
+2018-10-14 21:20:44,491 INFO  [Log] X 
+2018-10-14 21:20:44,491 INFO  [Log] X 
+2018-10-14 21:20:44,492 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.AllUsersPageTest.testCaseID_0032_VerifyNewUserButtonDisplay       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:45,645 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:45,645 INFO  [Log] X 
+2018-10-14 21:20:45,645 INFO  [Log] X 
+2018-10-14 21:20:45,645 INFO  [Log] X 
+2018-10-14 21:20:45,645 INFO  [Log] X 
+2018-10-14 21:20:45,647 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.AllUsersPageTest.testCaseID_0031_VerifyUsersTableSize       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:46,541 INFO  [Log] Total users :: [{"name":"u^v\u0026yr","email":"#@testdata.com","password":"91kou^wi7a5","id":1604},{"name":"-4tsi^","email":"4@testdata.com","password":"p_-jjvw#oyi","id":1605},{"name":"r6_jr*","email":"b9*me_hj6q%@testdata.com","password":"y59#ubv7r3*","id":1606},{"name":"gve30k","email":"o@testdata.com","password":"ypt**$9020q","id":1607},{"name":"9uf2vr_3g2r","email":"^o48h2gp9jv@testdata.com","password":"um^3*41\u0026w**","id":1608},{"name":"*v$-p-","email":"^@testdata.com","password":"*zz1l%24joq","id":1609},{"name":"nn1^$t","email":"9t$zqc$9mxg@testdata.com","password":"9wc-kf4vi-q","id":1610},{"name":"t#0fb_","email":"q#^y$e$mdhv@testdata.com","password":"_94l%chsoxm","id":1611},{"name":"8mqw_f","email":"75e3y%80p36@testdata.com","password":"wqsbg4ufrr#","id":1612},{"name":"\u0026mozqt","email":"6ssra*#r$mg@testdata.com","password":"uleznt*b8er","id":1613},{"name":"91hw18","email":"l#z6zdwg-_$@testdata.com","password":"o^cpd*8\u0026x^s","id":1614}] 
+2018-10-14 21:20:47,525 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:47,525 INFO  [Log] X 
+2018-10-14 21:20:47,525 INFO  [Log] X 
+2018-10-14 21:20:47,525 INFO  [Log] X 
+2018-10-14 21:20:47,525 INFO  [Log] X 
+2018-10-14 21:20:47,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 com.depositsolutions.tests.AllUsersPageTest.testCaseID_0032_VerifyUsersCreatedListedAtTheLastRow       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-14 21:20:47,526 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:47,526 INFO  [Log] Generating a Random String 
+2018-10-14 21:20:47,526 INFO  [Log] Generating a Random email String 
+2018-10-14 21:20:47,526 INFO  [Log] Email created :: b-^w455p-h*@testdata.com 
+2018-10-14 21:20:50,075 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-14 21:20:50,076 INFO  [Log] X 
+2018-10-14 21:20:50,076 INFO  [Log] X 
+2018-10-14 21:20:50,076 INFO  [Log] X 
+2018-10-14 21:20:50,076 INFO  [Log] X 
+2018-10-14 21:20:50,076 INFO  [Log] Leaving AllUsersPageTest 
+2018-10-14 21:20:50,076 INFO  [Log] =====Browser Session Ended===== 

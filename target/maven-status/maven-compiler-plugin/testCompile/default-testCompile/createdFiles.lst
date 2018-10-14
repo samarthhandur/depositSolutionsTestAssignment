@@ -1,0 +1,7 @@
+com/depositsolutions/tests/NewUserCreationEmailFieldTests.class
+com/depositsolutions/tests/NewUserCreationGenericTests.class
+com/depositsolutions/tests/NewUserCreationNameFieldTests.class
+com/depositsolutions/tests/TestSuiteClass.class
+com/depositsolutions/tests/AllUsersPageTest.class
+com/depositsolutions/tests/NewUserCreationPasswordFieldTests.class
+com/depositsolutions/tests/TestSuiteRunner.class
